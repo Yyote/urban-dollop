@@ -78,7 +78,6 @@ add_message_files(
    std_msgs 
    geometry_msgs
    beginner_tutorials
-   sensor_msgs
    )
 
 ################################################
