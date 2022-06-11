@@ -1,0 +1,5 @@
+sensor_msgs/PointCloud currentScan
+sensor_msgs/PointCloud previousScan
+sensor_msgs/PointCloud previousScan2
+sensor_msgs/PointCloud previousScan3
+sensor_msgs/PointCloud velocityModule
